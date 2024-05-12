@@ -1,0 +1,8 @@
+<suite name = "Amazon Web Automation">
+    <parameter name = "browser" value = "Chrome"/>
+    <test name = "Amazon">
+        <classes>
+            <class name = "TestRunners.Runner"/>
+        </classes>
+    </test>
+</suite>
